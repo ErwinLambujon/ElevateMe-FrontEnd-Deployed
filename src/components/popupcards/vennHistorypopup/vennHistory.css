@@ -1,0 +1,10 @@
+e.landscape-popup {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.venn-diagram-section img {
+	max-width: 50%; 		/* Adjust based on your design */
+	height: auto;      /* Maintain aspect ratio */
+}
