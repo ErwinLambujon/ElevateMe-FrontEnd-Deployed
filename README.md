@@ -1,3 +1,6 @@
+# You should run this alongside the Backend project 
+`https://github.com/ErwinLambujon/ElevateMe-BackEnd-Deployed`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
